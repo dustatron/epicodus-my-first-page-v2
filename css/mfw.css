@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 700;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 40px;
+    list-style: none;
+}
+
+li{
+    padding-left: 100px;
+}
