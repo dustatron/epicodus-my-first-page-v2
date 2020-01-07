@@ -1,5 +1,6 @@
 h1 {
-    color: blue;
+    color: lime;
+    text-align: center;
 }
 
 h2 {
@@ -9,9 +10,24 @@ h2 {
 
 p {
     font-family: sans-serif;
+    text-align: center;
+    text-shadow: 20px 4px 10px;
 }
 
 ul {
     font-size: 20px;
     line-height:30px;
+    list-style: none;
+}
+
+img{
+    max-width: 300px;
+}
+
+body{
+    background-color: #333;
+    color: white;
+}
+a{
+    color: white;
 }
